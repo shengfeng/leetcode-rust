@@ -1,12 +1,8 @@
 [package]
-name = "longest-increasing-subsequence"
+name = "two-sum"
 version = "0.1.0"
-<<<<<<< HEAD
 authors = ["shengfeng <fsheng1990@163.com>"]
 edition = "2018"
-=======
-edition = "2021"
->>>>>>> 300: longest-increasing-subsequence
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
